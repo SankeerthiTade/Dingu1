@@ -1,3 +1,2 @@
-'''Including examples or code snippets helps users better 
-understand how to use command-line interfaces'''
+'''Readme File provides essential guidance on a GitHub repository, explaining the project's purpose, setup instructions, and usage'''
 
